@@ -1,0 +1,22 @@
+{
+  "name": "node-task-runner",
+  "version": "1.0.0",
+  "description": "A promise-based dependency-free task runner for Node.",
+  "main": "cli.js",
+  "bin": {
+    "ntr": "cli.js"
+  },
+  "keywords": [
+    "task", 
+    "cli", 
+    "promise", 
+    "node"
+  ],
+  "repository": "https://github.com/code-chris/node-task-runner",
+  "author": {
+    "name": "Christian Kotzbauer",
+    "email": "christian.kotzbauer@gmail.com",
+    "twitter": "ckotzbauer1"
+  },
+  "license": "MIT"
+}
