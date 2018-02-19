@@ -49,7 +49,15 @@ tasks.task2 = (chainValue, arg1, arg2) => {
 
 module.exports = tasks;
 ```
-You have to export all tasks that should be available. The name of the function is used as task name. All tasks should return a Promise. If they do not, the behavior is the same as `Promise.resolve()`. In sequential mode previously resolved values, are passed to the next task function. This feature is not available in parallel mode. In the above example, "task2" would receive "test chain value" as `chainValue` if "task1" was executed before. If no value was resolved `undefined` is passed. The given task arguments from the cli are passed to all tasks as separate variables. **Note**: The `chainValue` is always passed as first parameter to the function, followed by optional task arguments.
+You have to export all tasks that should be available. The name of the function is used as task name. All tasks should return a Promise. If they do not, the behavior is the same as `Promise.resolve()`.
+
+In sequential mode previously resolved values, are passed to the next task function. This feature is not available in parallel mode. In the above example, "task2" would receive "test chain value" as `chainValue` if "task1" was executed before. If no value was resolved `undefined` is passed.
+
+The given task arguments from the cli are passed to all tasks as separate variables.
+
+**Note**: The `chainValue` is always passed as first parameter to the function, followed by optional task arguments.
+
+Messages of this library are colored, if `chalk` is installed.
 
 
 
