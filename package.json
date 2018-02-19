@@ -1,6 +1,6 @@
 {
   "name": "node-task-runner",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A promise-based dependency-free task runner for Node.",
   "main": "lib/cli.js",
   "bin": {
