@@ -4,9 +4,9 @@
 
 Released on February 26, 2018.
 
--   Handle task outputs correctly in parallel mode.
--   Print task durations on task-end.
--   Expose `runTask` function to manually execute tasks in other tasks.
+-   Task outputs are handled correctly in parallel mode.
+-   Task durations are shown on task-end.
+-   Exposed `runTask` function to manually execute tasks in other tasks.
 -   Fixed error if task-function does not return a `Promise`.
 -   Removed unused "tasks.js" file.
 -   Updated docs.
