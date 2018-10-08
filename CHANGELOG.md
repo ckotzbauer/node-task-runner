@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.1.0
+
+Released on October 08, 2018.
+
+-   New feature to run functions manually.
+
+
 ## Version 2.0.0
 
 Released on February 26, 2018.
