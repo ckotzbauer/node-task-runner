@@ -75,7 +75,21 @@ tasks.task3 = (reporter) => {
 
 ...
 ```
-You could run other tasks sequentially or parallel from another task too. The second argument indicates if console outputs should be collected and emitted on
+
+## Run functions manually
+```js
+const ntr = require('node-task-runner');
+
+...
+
+tasks.task3 = (reporter) => {
+  return Promise.all([ntr.runFunction("func1", () => { /* do something */ }, true), ntr.runFunction("func2", () => { /* do something */ }, true)]);
+};
+
+...
+```
+
+You could run other tasks or functions sequentially or parallel from another task too. The last argument indicates if console outputs should be collected and emitted on
 task-end or if they should be printed immediately. Default value is `false`.
 
 [License](https://github.com/code-chris/node-task-runner/blob/master/LICENSE)
