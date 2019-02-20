@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.1.1
+
+Released on February 20, 2019.
+
+-   Handle unexported tasks object correctly.
+
+
 ## Version 2.1.0
 
 Released on October 08, 2018.
