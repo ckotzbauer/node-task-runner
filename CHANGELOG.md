@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.2.0
+
+Released on April 08, 2019.
+
+-   Added `ts-node` support (`tasks.ts` is now used by default if `ts-node` is detected.)
+
+
 ## Version 2.1.1
 
 Released on February 20, 2019.
