@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.3.0
+
+Released on April 16, 2019.
+
+-   Added typescript definitions.
+
+
 ## Version 2.2.0
 
 Released on April 08, 2019.
