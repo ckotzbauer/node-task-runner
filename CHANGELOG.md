@@ -1,5 +1,33 @@
 # Changelog
 
+## Version 2.3.0
+
+Released on April 16, 2019.
+
+-   Added typescript definitions.
+
+
+## Version 2.2.0
+
+Released on April 08, 2019.
+
+-   Added `ts-node` support (`tasks.ts` is now used by default if `ts-node` is detected.)
+
+
+## Version 2.1.1
+
+Released on February 20, 2019.
+
+-   Handle unexported tasks object correctly.
+
+
+## Version 2.1.0
+
+Released on October 08, 2018.
+
+-   New feature to run functions manually.
+
+
 ## Version 2.0.0
 
 Released on February 26, 2018.
