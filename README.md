@@ -78,5 +78,5 @@ tasks.task3 = (reporter) => {
 You could run other tasks sequentially or parallel from another task too. The second argument indicates if console outputs should be collected and emitted on
 task-end or if they should be printed immediately. Default value is `false`.
 
-[License](https://github.com/code-chris/node-task-runner/blob/master/LICENSE)
+[License](https://github.com/ckotzbauer/node-task-runner/blob/master/LICENSE)
 ------

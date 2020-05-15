@@ -12,7 +12,7 @@
     "promise", 
     "node"
   ],
-  "repository": "https://github.com/code-chris/node-task-runner",
+  "repository": "https://github.com/ckotzbauer/node-task-runner",
   "author": {
     "name": "Christian Kotzbauer",
     "email": "christian.kotzbauer@gmail.com",
