@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.4.0
+
+Released on July 4, 2020.
+
+-   Moved repository.
+
+
 ## Version 2.3.0
 
 Released on April 16, 2019.
