@@ -1,3 +1,17 @@
+## Version 2.4.1 (2020-12-09)
+
+* [[`76788e6b`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/76788e6b)] - **chore**: fix release workflow
+* [[`d83a07a7`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/d83a07a7)] - **chore**: improve automation
+* [[`ae0031b3`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/ae0031b3)] - **chore**: Bump pascalgn&#x2F;size-label-action
+* [[`93d198be`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/93d198be)] - **chore**: Bump pascalgn&#x2F;automerge-action
+* [[`27b16d31`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/27b16d31)] - **chore**: Bump pascalgn&#x2F;automerge-action
+* [[`c166c3c5`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/c166c3c5)] - **chore**: improved github-actions
+* [[`67950dd5`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/67950dd5)] - **chore**: Bump pascalgn&#x2F;automerge-action
+* [[`14b166b4`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/14b166b4)] - **chore**: Bump pascalgn&#x2F;automerge-action
+* [[`6877e315`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/6877e315)] - **chore**: Bump pascalgn&#x2F;size-label-action
+* [[`fa611cb1`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/fa611cb1)] - **chore**: Create Dependabot config file
+* [[`1a824bc8`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/1a824bc8)] - **chore**: add github-actions
+* [[`fdcc0959`](https://github.com/ckotzbauer&#x2F;node-task-runner/commit/fdcc0959)] - **chore**: add reviewer
 # Changelog
 
 ## Version 2.4.0
