@@ -19,5 +19,5 @@ jobs:
       npm: true
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
-      pat: ${{ secrets.REPO_ACCESS_TOKEN }}
+      pat: ${{ secrets.REPO_ACCESS }}
       npm-token: ${{ secrets.NPM_TOKEN }}
