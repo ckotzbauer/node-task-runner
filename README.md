@@ -94,3 +94,15 @@ task-end or if they should be printed immediately. Default value is `false`.
 
 [License](https://github.com/ckotzbauer/node-task-runner/blob/main/LICENSE)
 ------
+
+## Contributing
+
+Please refer to the [Contribution guildelines](https://github.com/ckotzbauer/.github/blob/main/CONTRIBUTING.md).
+
+## Code of conduct
+
+Please refer to the [Conduct guildelines](https://github.com/ckotzbauer/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## Security
+
+Please refer to the [Security process](https://github.com/ckotzbauer/.github/blob/main/SECURITY.md).
