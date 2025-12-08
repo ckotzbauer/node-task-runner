@@ -1,5 +1,7 @@
 # Node-Task-Runner
 
+### ⚠️ This repository is archived and no longer actively maintained.
+
 [![NPM](https://img.shields.io/npm/v/node-task-runner.svg)](https://www.npmjs.com/package/node-task-runner)
 
 
